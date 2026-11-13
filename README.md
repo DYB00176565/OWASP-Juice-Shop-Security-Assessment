@@ -46,7 +46,7 @@ The assessment identified several security issues, including:
 
 The full technical report, including testing methodology, screenshots, findings and results, is available here:
 
-[View Security Assessment Report](report/OWASP_Security_Assessment_Report.pdf)
+[View Security Assessment Report](https://github.com/DYB00176565/OWASP-Juice-Shop-Security-Assessment/blob/main/OWASP_Security_Assessment_Report.pdf)
 
 ## Disclaimer
 
